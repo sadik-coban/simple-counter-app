@@ -1,0 +1,17 @@
+body{
+  background: #F1F5F8;
+  display:grid;
+  place-items: center;
+  min-height: 100vh;
+}
+h2 {
+  text-align: center;
+  font-size: 70px;
+}
+.container {
+  min-width: 700px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
